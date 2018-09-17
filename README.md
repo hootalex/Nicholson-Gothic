@@ -1,4 +1,4 @@
-# Nicholson-Gothic
+# Nicholson Gothic
 
 A geometric sans serif inspired by gothics of the 1930s. 
 
